@@ -1,6 +1,6 @@
 pragma solidity ^0.4.7;
 
-contract DateTime {
+library DateTime {
         /*
          *  Date and Time utilities for ethereum contracts
          *
